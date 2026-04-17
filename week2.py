@@ -12,8 +12,8 @@ import math
 print("Square root:", math.sqrt(16))
 print("Power:", math.pow(2, 3))
 print("Factorial:", math.factorial(5))
-print("Log:", math.log(10))
 print("Pi value:", math.pi)
+print("Log of 100:", math.log(100,10))
 
 
 import numpy as np
